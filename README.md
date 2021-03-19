@@ -1,4 +1,4 @@
-:spiral_calendar: Atualizado em 17 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 19 de Março de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
@@ -14,7 +14,7 @@ Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizan
 
 - Bundle complete! 17 Gemfile dependencies, 78 gems now installed.
 - Ruby version: ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x64-mingw32]
-- Rails version: Rails 6.1.3
+- Rails vercdsion: Rails 6.1.3
 - yarn version: v1.22.10
 - devise version: 4.7.3
 - Rspec
@@ -35,6 +35,6 @@ Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizan
 
 - xxxxxxxxxxxxxxx
 
-# Exemplos de telas
+# Exemplos de telas (testes executados com VSCODE no WINDOWS e utilizando Google Chrome)
 
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas/blob/main/tela.jpg" />
