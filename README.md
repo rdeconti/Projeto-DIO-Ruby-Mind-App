@@ -9,6 +9,8 @@
 Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizando o framework Ruby on Rails, do planejamento ao lançamento. Desde o entendimento e modelagem do problema, criação das tarefas com Trello, utilização do GitHub como repositório de código, até o lançamento da aplicação com Heroku para compartilhar o link com seus amigos. Ou seja, imersão completa no dia a dia de uma pessoa desenvolvedora.
 
 - Link do código original: https://github.com/brunoao86/mind-app
+- Link da aula: https://web.digitalinnovation.one/project/mindapp-desenvolvendo-uma-cloud-tags-com-ruby/learning/fd585aa9-3e31-4802-8384-cc216963692a?back=/track/impulso-fullstack-developer&bootcamp_id=e8acc308-33f0-4638-af06-faa557c0a04a
+- Professor: Bruno Oliveira
 
 # Detalhes técnicos
 
