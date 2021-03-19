@@ -32,4 +32,37 @@ Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizan
 
 # Exemplos de telas (testes executados com VSCODE no WINDOWS e utilizando Google Chrome)
 
-<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas/blob/main/tela.jpg" />
+## Login realizado depois de um Logout
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Login%20-%20After%20logout.jpg" />
+
+## Tela de resposta de um Logout
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Logout%20-%20Answer.jpg" />
+
+## Tela de inclusão
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Include.jpg" />
+
+## Tela de alteração
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Edit%20-%20Include%20tags.jpg" />
+
+## Tela de TAGS depois de várias alterações
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Initial%20screen%20-%20After%20includes.jpg" />
+
+## Resultado da consulta feita da tela inicial
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Initial%20screen%20-%20Search%20done%20by%20word%20-%20answer%20(word%20is%20SQL).jpg" />
+
+## Tela de consulta para TAG que aparece em todos os conteúdos
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Search%20TAG%20that%20appears%20in%20all%20contents.jpg" />
+
+## Consulta de TAG para um único conteúdo
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Search%20Contents%20with%20CSS%20(just%20one).jpg" />
+
+## Terminal para processo de inclusão
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Terminal%20-%20Process%20Create.jpg" />
+
+## Terminal para processo de Login
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Terminal%20-%20Process%20Login.jpg" />
+
+## Terminal para processo de Busca
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App/blob/master/Tests-Screens/Mind-app%20-%20Terminal%20-%20Process%20Search%20TAG.jpg" />
+
+
