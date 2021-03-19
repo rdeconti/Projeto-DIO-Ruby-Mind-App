@@ -25,17 +25,10 @@ Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizan
    -- rspec-mocks (3.10.0)
    -- rspec-rails (4.0.1)
    -- rspec-support (3.10.0)
-- System dependencies
-- Configuration
-- Database creation
-- Database initialization
-- How to run the test suite
-- Services (job queues, cache servers, search engines, etc.)
-- Deployment instructions
 
 # Melhorias implementadas
 
-- xxxxxxxxxxxxxxx
+- Neste momento sem melhorias a serem implementadas
 
 # Exemplos de telas (testes executados com VSCODE no WINDOWS e utilizando Google Chrome)
 
